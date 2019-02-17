@@ -1,6 +1,6 @@
 def position_taken?(board, index)
  if = " "
-return = false
+return = true
 
 end
 
