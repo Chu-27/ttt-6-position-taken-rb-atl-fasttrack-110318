@@ -1,5 +1,5 @@
 def position_taken?(board, index)
- if board, index = [" "] then
+ if board = [" "] then
  puts false
 
 end
