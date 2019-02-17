@@ -4,12 +4,8 @@
 # it could be 0, 4, 7, 1 
 
 def position_taken?(board, index)
- puts board[0]
- puts index
- if board[index] == " "
-   return 
- else 
- if board[index] == "x" || "0"
+ puts board[index]
+ 
    return 
 
 
